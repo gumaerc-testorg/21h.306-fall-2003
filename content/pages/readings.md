@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 73830c42-5931-d3af-26a0-8713f2378f8b
 ---
@@ -200,7 +203,7 @@ The Power and Splendor of Monarchs
 {{< tdopen >}}
 Sources on Henry II and St. Louis. _The Medieval Record._ pp. 297-310, and 329-34.  
   
-Sources on 13th century Culture. _The Medieval Record._ pp. 280-282, and 289-94.  
+Sources on 13{{< sup "th" >}} century Culture. _The Medieval Record._ pp. 280-282, and 289-94.  
   
 St. Bernard of Clairvaux on the Jewish Problem.
 {{< tdclose >}}
