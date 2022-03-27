@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 575beaa4-b798-4375-e138-d8ac43a3bf2a
 resourcetype: Document
 title: Final Exam Review Questions
 uid: 635f8d4d-82d9-733a-d9c1-b0b7d2bcabc3

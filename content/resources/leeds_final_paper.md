@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 54843dab-721d-9c5f-5dd9-e79f70b21864
 resourcetype: Document
 title: High Middle Ages, "Super-Princes," and National Unity
 uid: 29745d9e-27a9-6697-a9e4-daf14c5e2f2d

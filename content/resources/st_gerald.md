@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 54843dab-721d-9c5f-5dd9-e79f70b21864
 resourcetype: Document
 title: 'On The Life of St. Gerald of Aurillac, by St. Odo of Cluny '
 uid: 8aa98a12-9fca-0def-d1f5-9796a9bfe283

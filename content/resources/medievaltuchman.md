@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 54843dab-721d-9c5f-5dd9-e79f70b21864
 resourcetype: Document
 title: Barbara Tuchman - A Distant Mirror
 uid: 144ab042-2938-e376-3147-9439658d226d
