@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the four discussion papers assigned
+  for the course, two sample student papers, and questions for the final reading assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,9 +13,9 @@ Students are required to submit a total of four discussion papers - two due befo
 
 Below are two sample student papers from the course:
 
-Saint Gerald, by Alevtina Asarina ([PDF]({{< baseurl >}}/resources/st_gerald))
+Saint Gerald, by Alevtina Asarina ({{% resource_link 8aa98a12-9fca-0def-d1f5-9796a9bfe283 "PDF" %}})
 
-Final Paper: High Middle Ages, "Super-Princes," and National Unity, by Daniel Leeds ([PDF]({{< baseurl >}}/resources/leeds_final_paper))
+Final Paper: High Middle Ages, "Super-Princes," and National Unity, by Daniel Leeds ({{% resource_link 29745d9e-27a9-6697-a9e4-daf14c5e2f2d "PDF" %}})
 
 Final Reading Assignment Questions
 ----------------------------------
