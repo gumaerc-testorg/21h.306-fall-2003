@@ -6,6 +6,7 @@ file: /courses/21h-306-the-emergence-of-europe-500-1300-fall-2003/144ab0422938e3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Barbara Tuchman - A Distant Mirror
 uid: 144ab042-2938-e376-3147-9439658d226d
 ---
 Example of student work for a final reading assignment on Barbara Tuchman's A Distant Mirror.
-
