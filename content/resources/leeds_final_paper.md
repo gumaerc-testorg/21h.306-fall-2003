@@ -2,6 +2,7 @@
 content_type: resource
 description: Student discussion paper on Froissart's Chronicles.
 file: /courses/21h-306-the-emergence-of-europe-500-1300-fall-2003/29745d9e27a96697a9e4daf14c5e2f2d_leeds_final_paper.pdf
+file_size: 11849
 file_type: application/pdf
 learning_resource_types:
 - Assignments
