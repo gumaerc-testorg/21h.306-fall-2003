@@ -2,7 +2,7 @@
 content_type: resource
 description: Student discussion paper on St. Odo of Cluny's On The Life of St. Gerald
   of Aurillac.
-file: /courses/21h-306-the-emergence-of-europe-500-1300-fall-2003/8aa98a129fca0defd1f59796a9bfe283_st_gerald.pdf
+file: /ol-ocw-studio-app/courses/21h-306-the-emergence-of-europe-500-1300-fall-2003/8aa98a129fca0defd1f59796a9bfe283_st_gerald.pdf
 file_size: 11265
 file_type: application/pdf
 learning_resource_types:
