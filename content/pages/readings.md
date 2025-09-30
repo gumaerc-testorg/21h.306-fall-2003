@@ -11,7 +11,7 @@ uid: 73830c42-5931-d3af-26a0-8713f2378f8b
 ---
 Sites of interest:
 
-[Internet Medieval Sourcebook](http://www.fordham.edu/halsall/sbook2.html)
+{{% resource_link "28ef4ea0-478f-43c9-ae7c-983c98b63e19" "Internet Medieval Sourcebook" %}}
 
 Syd Allan's Beowulf Site
 
